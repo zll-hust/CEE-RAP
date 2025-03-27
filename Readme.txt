@@ -1,0 +1,1 @@
+表格记录了US News Top20 Engineering School CEE专业的RAP和类似教职的faculty人员名单，包括个人主页链接和google scholar论文数量。由于一些教职不确定是否与RAP类似，人员名单较长，需要核实是否可以列入。很多professor of practice没有google scholar或research gate，无法确定论文数量，所以没填入。
